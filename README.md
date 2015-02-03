@@ -38,5 +38,7 @@ Phase 3 should present an overall status of the house from a cloud server, this 
 
 <h1>Original Articles</h1>
 
-<a href="https://z900collector.wordpress.com/arduinoembedded/arduino-object-oriented-hcs-part-1/">Arduino – Object Oriented HCS – Part 1</a>
-<a href="https://z900collector.wordpress.com/arduinoembedded/arduino-object-oriented-hcs-part-2/">Arduino – Object Oriented HCS – Part 2</a>
+<ul>
+<li><a href="https://z900collector.wordpress.com/arduinoembedded/arduino-object-oriented-hcs-part-1/">Arduino – Object Oriented HCS – Part 1</a></li>
+<li><a href="https://z900collector.wordpress.com/arduinoembedded/arduino-object-oriented-hcs-part-2/">Arduino – Object Oriented HCS – Part 2</a></li>
+</ul>
