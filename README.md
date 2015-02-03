@@ -7,7 +7,7 @@ This is the first draft of the code for the Arduino HCS I am constructing.
 The Code is written using C++ constructs.
 
 
-Theory of operation
+<h1>Theory of operation</h1>
 
 The setup() method creates a controller object that creates all objects in the system.
 
