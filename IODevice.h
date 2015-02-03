@@ -18,5 +18,6 @@ public:
 
 	virtual void Timer1ms()=0;
 	virtual void Timer1sec()=0;
+	virtual char * getJSON()=0;
 };
 #endif
